@@ -13,6 +13,7 @@ A SwiftUI iOS 26+ custom TabView with liquid glass effect and animated tab icons
 - 🔧 **Customizable**: Easy to customize colors, animations, and tab items
 - 📱 **iOS 26+ Compatible**: Uses the latest iOS features and design patterns
 
+## Installation
 
 ### Requirements
 - iOS 26.0+
@@ -82,7 +83,7 @@ enum CustomTab: String, CaseIterable {
         }
     }
 }
-
+```
 
 ## Project Structure
 
